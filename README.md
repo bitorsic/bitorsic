@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 Here are some of my noteworthy projects:
 
 - **[Chat-Nat](https://github.com/bitorsic/chat-nat)**: An implementation of E2EE using the ECDH key exchange
-- **[Node.js Rate Limiter](https://github.com/bitorsic/nodejs-rate-limiting)**: A simple rate limiter in node.js, where requests are queued instead of being dropped
 - **[Task-inator 3000](https://github.com/bitorsic/todo-react-golang)**: A robust todo app built for multiple users
+- **[Node.js Rate Limiter](https://github.com/bitorsic/nodejs-rate-limiting)**: A simple rate limiter in node.js, where requests are queued instead of being dropped
 
 ## 📚 Interests
 I love learning about:
